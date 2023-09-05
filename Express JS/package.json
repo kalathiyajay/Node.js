@@ -1,0 +1,18 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "Learn ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "abc": "nodemon app.js",
+    "mid":"nodemon middlewer.js",
+    "index":"nodemon index.js",
+    "xyz":"nodemon api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
